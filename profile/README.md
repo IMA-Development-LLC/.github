@@ -4,7 +4,7 @@
             
 <hr>
 <h3 align="center">Hey!</h3>
-<h4 align="center">This is the official GitHub for Quantum Development</h4>
+<h4 align="center">This is the official GitHub for IMA Development</h4>
 <hr>
 
 <h3 align="center">Languages and Tools we use:</h3>
